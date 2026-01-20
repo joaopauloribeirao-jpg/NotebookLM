@@ -12,7 +12,7 @@ Através deste projeto você ficará por dentro de tudo que é necessário para 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[NotebookLM](https://notebooklm.google/)** para roteirização;
 
-- ## 🧐 Processo de Criação
+## 🧐 Processo de Criação
 - O "NotebookLM" foi utilizado para criação de todo projeto.
 
 ## 🚀 Resultados
